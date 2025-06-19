@@ -2,7 +2,7 @@
 
 import ctypes
 
-from .tmlearner import TMLearner
+from .generaltmlearning import GeneralTMLearning
 from .key_test import wasd_key_test, arrow_key_test
 
 # ASSERT ADMIN
